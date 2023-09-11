@@ -17,8 +17,7 @@ var colorScaleDefault = [
 function GetMap(mapsKey) {
     //Initialize a map instance.
     map = new atlas.Map('myMap', {
-        
-        center: [-122.12, 47.64],
+        center: [-73.979201, 40.718294],
         zoom: 12,
 
         //Pitch the map so that the extrusion of the polygons is visible.
